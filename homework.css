@@ -39,8 +39,15 @@
   background-color: aqua;
 }
 .ano {
-    background-color: aqua;
+  background-color: aqua;
 }
 .infoebi {
-    background-color: palevioletred;
+  background-color: palevioletred;
+}
+.nabiji {
+  text-align: center;
+}
+.imiji {
+  height: 300px;
+  width: 300px;
 }
